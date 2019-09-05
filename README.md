@@ -15,7 +15,7 @@
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
 2.Create an ordered list detailing your first and last name, your favorite color, and the link to your GitHub repo. 
- make you first and last name bold and Italicize your your favorite blog or podcast name.
+ make your first and last name Bold and Italicize your your favorite blog or podcast name.
 It should look something like this: 
 
 
