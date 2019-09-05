@@ -1,5 +1,5 @@
 # EDA-HW0
-
+## Due Date: Monday, September 9th, 12:00 pm 
 ### Helpful Markdown links
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
