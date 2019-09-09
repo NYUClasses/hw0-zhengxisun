@@ -18,9 +18,9 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+  * **Zhengxi Sun**
+2. My favorite blog
+  * *the Beautiful Games*
+3. [My Github repo](https://github.com/zhengxisun)
 
-Once you are done, commit your changes, and push to GitHub. 
+Once you are done, commit your changes, and push to GitHub.
